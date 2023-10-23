@@ -25,7 +25,7 @@ color:#24085C;
 nav{
 position:fixed;
 width:300px;
-height:100vh;
+height:100%;
 margin:0 0;
 border-right:3px solid #24085C;
 }
